@@ -95,8 +95,8 @@ available from [https://www.cmi-pb.org/](https://www.cmi-pb.org/).
 If you use any artifact from this repository, please cite:
 
 ```bibtex
-@article{sitani2026cmipb,
-  title   = {Multi-Task Multimodal Fusion Using Tabular Foundation
+@article{sitani2026multitask,
+  title   = {Multitask Multimodal Fusion Using Tabular Foundation
              Models for Peak and Durability Prediction in Pertussis
              Booster Vaccine Response},
   author  = {Sitani, Divya},
