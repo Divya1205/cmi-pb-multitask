@@ -1,6 +1,6 @@
-# Multi-Task Multimodal Fusion for Pertussis Booster Response Prediction
+# Multitask Multimodal Fusion for Pertussis Booster Response Prediction
 
-Companion code for the preprint:
+Code for the preprint:
 
 > Sitani D. *Multi-Task Multimodal Fusion Using Tabular Foundation Models
 > for Peak and Durability Prediction in Pertussis Booster Vaccine
