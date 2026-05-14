@@ -7,10 +7,10 @@ Companion code for the preprint:
 > Response*. arXiv (2026).
 > https://doi.org/10.48550/arXiv.2605.12852
 
-This repository provides **trained model weights, saved test-set
+This repository provides **trained model weights, saved test set
 predictions, and the scripts needed to reproduce every table and
 figure in the paper**. Training code is held back pending journal
-publication; 
+publication.
 
 ---
 
@@ -85,7 +85,7 @@ This work uses the public CMI-PB dataset:
 > immunity.* Cell Reports Methods (2024).
 > doi:10.1016/j.crmeth.2024.100731
 
-Raw data is not redistributed here. The harmonised dataset is
+The raw and harmonised dataset is
 available from [https://www.cmi-pb.org/](https://www.cmi-pb.org/).
 
 ---
